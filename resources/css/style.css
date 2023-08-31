@@ -1,0 +1,16 @@
+.menu , .about_us , .services , .products {
+    padding: 15px 50px 15px 50px;
+    color: black;
+}
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    z-index: 1000;
+}
+
+.header {
+    padding: 1rem;
+}
